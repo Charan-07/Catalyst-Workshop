@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/app/static/css/main.4e98392f.css",
+    "main.js": "/app/static/js/main.d5218819.js",
+    "static/media/bakery.png": "/app/static/media/bakery.d5fb1075ed1589ef1cd4.png",
+    "static/media/Illustration.svg": "/app/static/media/Illustration.0793667095749031c88be189ffcbf985.svg",
+    "static/media/bloco_final_image.svg": "/app/static/media/bloco_final_image.4664bb6a911e9cb210748e139c5a321e.svg",
+    "index.html": "/app/index.html",
+    "main.4e98392f.css.map": "/app/static/css/main.4e98392f.css.map",
+    "main.d5218819.js.map": "/app/static/js/main.d5218819.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e98392f.css",
+    "static/js/main.d5218819.js"
+  ]
+}
